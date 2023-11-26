@@ -1,0 +1,15 @@
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/bin/Debug/net7.0/Enterprise
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/bin/Debug/net7.0/Enterprise.deps.json
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/bin/Debug/net7.0/Enterprise.runtimeconfig.json
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/bin/Debug/net7.0/Enterprise.dll
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/bin/Debug/net7.0/Enterprise.pdb
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/Enterprise.csproj.AssemblyReference.cache
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/Enterprise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/Enterprise.AssemblyInfoInputs.cache
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/Enterprise.AssemblyInfo.cs
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/Enterprise.csproj.CoreCompileInputs.cache
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/Enterprise.dll
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/refint/Enterprise.dll
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/Enterprise.pdb
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/Enterprise.genruntimeconfig.cache
+/Users/fp/Documents/Projetos C#/Enterprise/Enterprise/obj/Debug/net7.0/ref/Enterprise.dll
